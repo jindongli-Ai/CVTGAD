@@ -1,0 +1,1 @@
+python main.py -exp_type ad -DS COLLAB -batch_size 64 -batch_size_test 64 -rw_dim 32 -dg_dim 32 -hidden_dim 16 -num_epoch 800 -num_cluster 2 -alpha 0.32 -num_layer 5 -GNN_Encoder GIN -graph_level_pool global_mean_pool -eval_freq 5
