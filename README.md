@@ -15,7 +15,6 @@ This code requires the following:
 - Scikit-learn==1.0.2
 - OGB==1.3.3
 - NetworkX==2.7.1
-- FAISS-GPU==1.7.2
 
 # Usage
 Run anomaly detection on PROTEINS_full datasets:
