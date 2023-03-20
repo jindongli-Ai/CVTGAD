@@ -27,6 +27,6 @@ bash script/ad_PROTEINS_full.sh
 ```
 
 # Cite
-Some code we borrow from GOOD-D
+We borrow some codes from GOOD-D
 https://github.com/yixinliu233/G-OOD-D
 
