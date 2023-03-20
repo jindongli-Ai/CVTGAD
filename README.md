@@ -16,6 +16,10 @@ This code requires the following:
 - OGB==1.3.3
 - NetworkX==2.7.1
 
+# Dataset
+TUDataset
+https://chrsmrrs.github.io/datasets/docs/datasets/
+
 # Usage
 Run anomaly detection on PROTEINS_full datasets:
 ```
