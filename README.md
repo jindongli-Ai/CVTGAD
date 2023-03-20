@@ -25,3 +25,8 @@ Run anomaly detection on PROTEINS_full datasets:
 ```
 bash script/ad_PROTEINS_full.sh
 ```
+
+# Cite
+Some code we borrow from GOOD-D
+https://github.com/yixinliu233/G-OOD-D
+
