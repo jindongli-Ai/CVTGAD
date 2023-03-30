@@ -9,7 +9,7 @@ The article is in the period of review. Please do not quote or use it for other 
 This code requires the following:
 
 - Python==3.8
-- Pytorch==1.10
+- Pytorch==1.10.1
 - Pytorch Geometric==2.0.4
 - Numpy==1.21.2
 - Scikit-learn==1.0.2
