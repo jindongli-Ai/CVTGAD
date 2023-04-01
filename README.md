@@ -21,9 +21,9 @@ TUDataset
 https://chrsmrrs.github.io/datasets/docs/datasets/
 
 # Usage
-Run anomaly detection on PROTEINS_full datasets:
+Run anomaly detection on DD datasets:
 ```
-bash script/ad_PROTEINS_full.sh
+bash script/ad_DD.sh
 ```
 
 
