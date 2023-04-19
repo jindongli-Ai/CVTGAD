@@ -17,8 +17,16 @@ This code requires the following:
 - NetworkX==2.7.1
 
 # Hardware used for implementation
-CPU: 15cores/GPU，Xeon(R) Platinum 8358P
+CPU: 15 vCPU Intel(R) Xeon(R) Platinum 8358P CPU @ 2.60GHz
+
 GPU: A40(48GB)
+
+RAM: 56GB
+
+System Disk: 25GB
+
+Data Disk: SSD 50GB
+
 AutoDL platform: https://www.autodl.com/home
 
 # Dataset
