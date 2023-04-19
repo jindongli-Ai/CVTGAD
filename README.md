@@ -16,6 +16,11 @@ This code requires the following:
 - OGB==1.3.3
 - NetworkX==2.7.1
 
+# Hardware used for implementation
+CPU: 15cores/GPU，Xeon(R) Platinum 8358P
+GPU: A40(48GB)
+AutoDL platform: https://www.autodl.com/home
+
 # Dataset
 TUDataset
 https://chrsmrrs.github.io/datasets/docs/datasets/
