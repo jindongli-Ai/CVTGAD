@@ -484,13 +484,13 @@ class Cross_Attention(nn.Module):
         B_attn /= self.k
 
         #----------------------------------------#
-        A_attention = torch.softmax(A_attn, 2)                                   
+        A_attn = torch.softmax(A_attn, 2)                                   
         A_attention = A_attn / (1e-9 + A_attn.sum(dim=1, keepdims=True))    
         A_sc = A_attention @ A_V
         # A_sc = A_atteneion @ B_V                                             
         # A_sc = A_sc.permute(0, 2, 1)
 
-        B_attention = torch.softmax(B_attn, 2)                                  
+        B_attn = torch.softmax(B_attn, 2)                                  
         B_attention = B_attn / (1e-9 + B_attn.sum(dim=1, keepdims=True))      
         B_sc = B_attention @ B_V
 
