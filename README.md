@@ -34,9 +34,9 @@ TUDataset
 https://chrsmrrs.github.io/datasets/docs/datasets/
 
 # Usage
-Run anomaly detection on IMDB-B datasets:
+Run anomaly detection on Tox21_PPAR-gamma datasets:
 ```
-bash script/ad_IMDB-B.sh
+bash script/ad_PPAR-gamma.sh
 ```
 
 
