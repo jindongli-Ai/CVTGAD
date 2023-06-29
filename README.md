@@ -39,4 +39,8 @@ Run anomaly detection on Tox21_PPAR-gamma datasets:
 bash script/ad_PPAR-gamma.sh
 ```
 
+# Reproducibility
+Although we do our best to fix the random seeds, the results of each epoch of running cannot be guaranteed to be 100% identical on different machines. The process of operation is still full of randomness.
+In order to ensure the reproducibility of the results, we have saved and sorted the results of all test epochs.
+
 
