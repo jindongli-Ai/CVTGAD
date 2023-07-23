@@ -40,7 +40,6 @@ bash script/ad_PPAR-gamma.sh
 ```
 
 # Reproducibility
-Although we do our best to fix the random seeds, the process and result of code running cannot be guaranteed to be 100% identical on different machines. The process of code running is still full of randomness.
-In order to ensure the reproducibility of the results, we have saved and sorted the results of all test epochs in the process of code running. In the later stages of training, the model and results tend to be stable. We adopt the best performance with it is similar to the performance of the top ranked ones. If the result is still somewhat different from the report in the paper, you can try to fine-tune the hyperparameters, such as learning rate.
+Although we do our best to fix the random seeds, the process and result of code running cannot be guaranteed to be 100% identical on different machines. The process of code running is still full of uncertainty. After a certain number of rounds of training, obtaining results based on the last state may not necessarily guarantee fairness in performance comparison. In order to ensure the reproducibility of the results, we have saved and sorted the results of all test epochs in the process of code running. In the later stages of training, the model and results tend to be stable. We adopt the best performance with it is similar to the performance of the top ranked ones. If the result is still somewhat different from the report in the paper, you can try to fine-tune the hyperparameters, such as learning rate.
 
 
