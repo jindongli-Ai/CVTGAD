@@ -1,7 +1,7 @@
 # Basic Information:
 This code is released for the paper (to appear):
 
-### [ECMLPKDD'2023] CVTGAD: Simplified Transformer with Cross-View Attention for Unsupervised Graph Level Anomaly Detection
+### [ECMLPKDD'2023] CVTGAD: Simplified Transformer with Cross-View Attention for Unsupervised Graph-level Anomaly Detection
 
 The paper has just been accepted. The ECMLPKDD'2023 conference will be held from 18/09/2023 to 22/09/2023. Please do not quote or use it for other purposes at present.
 
